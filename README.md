@@ -7,6 +7,9 @@ using YOLO Algorithm
 -	Description: Using OpenCV library in python for traffic management
 -	It employs image processing techniques, including object detection using YOLO for vehicle detection. The system incorporates algorithms to calculate traffic density and dynamically adjusts green signal timers accordingly, aiming to optimize traffic flow and improve efficiency.
 -	Technology: Image processing, object detection, YOLO is used for vehicle detection, and the system uses algorithms to calculate traffic density and set green signal timers.
+
+![image](https://github.com/DHANUNJAYA98/Smart-solution-for-traffic-management-system/assets/123298727/cf17f597-8697-4d05-96a3-fc904e93075b)
+
 ## Features
 - Real-time Traffic Monitoring: The system continuously monitors traffic conditions in real-time using a network of sensors, cameras, and other data collection devices. This enables the system to gather accurate and up-to-date information about traffic volume, congestion levels, and other relevant factors.
 
