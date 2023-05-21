@@ -19,4 +19,4 @@ using YOLO Algorithm
 
 - Route Optimization: The system provides real-time route recommendations to drivers based on current traffic conditions. By suggesting the most efficient routes, it helps drivers save time, fuel, and reduce their environmental impact. It also considers other factors like road conditions, accidents, and ongoing events.
 
-- Emergency Response Integration: The system is designed to integrate with emergency response services to provide efficient traffic management during emergencies or accidents. It can automatically detect critical situations and adjust traffic signals and routes to ensure the smooth flow of emergency vehicles and reduce response time
+- Emergency Response Integration: The system is designed to integrate with emergency response services to provide efficient traffic management during emergencies or accidents. It can automatically detect critical situations and adjust traffic signals and routes to ensure the smooth flow of emergency vehicles and reduce response time.
