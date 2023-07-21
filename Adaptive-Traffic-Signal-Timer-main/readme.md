@@ -59,33 +59,7 @@ Read more about object detection model used, working of the algorithm, and devel
 2. [Microsoft Visual C++ build tools](http://go.microsoft.com/fwlink/?LinkId=691126&fixForIE=.exe.) (For Windows only)
 
 ------------------------------------------
-### Installation
 
-* Step I: Clone the Repository
-```sh
-      $ git clone https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer
-```
-
-* Step II: Download the weights file from [here](https://drive.google.com/file/d/1flTehMwmGg-PMEeQCsDS2VWRLGzV6Wdo/view?usp=sharing) and place it in the Adaptive-Traffic-Signal-Timer/Code/YOLO/darkflow/bin directory
-
-* Step III: Install the required packages
-```sh
-      # On the terminal, move into Adaptive-Traffic-Signal-Timer/Code/YOLO/darkflow directory
-      $ cd Adaptive-Traffic-Signal-Timer/Code/YOLO/darkflow
-      $ pip install -r requirements.txt
-      $ python setup.py build_ext --inplace
-```
-
-* Step IV: Run the code
-```sh
-      # To run vehicle detection
-      $ python vehicle_detection.py
-      
-      # To run simulation
-      $ python simulation.py
-```
-
-------------------------------------------
 
 
 
